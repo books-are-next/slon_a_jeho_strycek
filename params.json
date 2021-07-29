@@ -1,0 +1,259 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Slon a jeho strýček",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Pavel Šrut",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-07-29T09:06:36.929Z"
+    },
+    "chapters": [
+      {
+        "title": "",
+        "filename": "slon_a_jeho_strycek_001.md",
+        "xhtml": "slon_a_jeho_strycek_001.xhtml"
+      },
+      {
+        "title": "",
+        "filename": "slon_a_jeho_strycek_002.md",
+        "xhtml": "slon_a_jeho_strycek_002.xhtml"
+      },
+      {
+        "title": "Slon a jeho strýček",
+        "filename": "slon_a_jeho_strycek_003.md",
+        "xhtml": "slon_a_jeho_strycek_003.xhtml"
+      },
+      {
+        "title": "Znění tohoto textu vychází z díla Slon a jeho strýček tak, jak bylo vydáno nakladatelstvím Blok v Brně v roce 1980. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+        "filename": "slon_a_jeho_strycek_004.md",
+        "xhtml": "slon_a_jeho_strycek_004.xhtml"
+      },
+      {
+        "title": "1. kapitola",
+        "filename": "slon_a_jeho_strycek_005.md",
+        "xhtml": "slon_a_jeho_strycek_005.xhtml"
+      },
+      {
+        "title": "2. kapitola",
+        "filename": "slon_a_jeho_strycek_006.md",
+        "xhtml": "slon_a_jeho_strycek_006.xhtml"
+      },
+      {
+        "title": "3. kapitola",
+        "filename": "slon_a_jeho_strycek_007.md",
+        "xhtml": "slon_a_jeho_strycek_007.xhtml"
+      },
+      {
+        "title": "4. kapitola",
+        "filename": "slon_a_jeho_strycek_008.md",
+        "xhtml": "slon_a_jeho_strycek_008.xhtml"
+      },
+      {
+        "title": "5. kapitola",
+        "filename": "slon_a_jeho_strycek_009.md",
+        "xhtml": "slon_a_jeho_strycek_009.xhtml"
+      },
+      {
+        "title": "6. kapitola",
+        "filename": "slon_a_jeho_strycek_010.md",
+        "xhtml": "slon_a_jeho_strycek_010.xhtml"
+      },
+      {
+        "title": "7. kapitola",
+        "filename": "slon_a_jeho_strycek_011.md",
+        "xhtml": "slon_a_jeho_strycek_011.xhtml"
+      },
+      {
+        "title": "8. kapitola",
+        "filename": "slon_a_jeho_strycek_012.md",
+        "xhtml": "slon_a_jeho_strycek_012.xhtml"
+      },
+      {
+        "title": "9. kapitola",
+        "filename": "slon_a_jeho_strycek_013.md",
+        "xhtml": "slon_a_jeho_strycek_013.xhtml"
+      },
+      {
+        "title": "10. kapitola",
+        "filename": "slon_a_jeho_strycek_014.md",
+        "xhtml": "slon_a_jeho_strycek_014.xhtml"
+      },
+      {
+        "title": "11. kapitola",
+        "filename": "slon_a_jeho_strycek_015.md",
+        "xhtml": "slon_a_jeho_strycek_015.xhtml"
+      },
+      {
+        "title": "12. kapitola",
+        "filename": "slon_a_jeho_strycek_016.md",
+        "xhtml": "slon_a_jeho_strycek_016.xhtml"
+      },
+      {
+        "title": "13. kapitola",
+        "filename": "slon_a_jeho_strycek_017.md",
+        "xhtml": "slon_a_jeho_strycek_017.xhtml"
+      },
+      {
+        "title": "14. kapitola",
+        "filename": "slon_a_jeho_strycek_018.md",
+        "xhtml": "slon_a_jeho_strycek_018.xhtml"
+      },
+      {
+        "title": "15. kapitola",
+        "filename": "slon_a_jeho_strycek_019.md",
+        "xhtml": "slon_a_jeho_strycek_019.xhtml"
+      },
+      {
+        "title": "16. kapitola",
+        "filename": "slon_a_jeho_strycek_020.md",
+        "xhtml": "slon_a_jeho_strycek_020.xhtml"
+      },
+      {
+        "title": "17. kapitola",
+        "filename": "slon_a_jeho_strycek_021.md",
+        "xhtml": "slon_a_jeho_strycek_021.xhtml"
+      },
+      {
+        "title": "18. kapitola",
+        "filename": "slon_a_jeho_strycek_022.md",
+        "xhtml": "slon_a_jeho_strycek_022.xhtml"
+      },
+      {
+        "title": "19. kapitola",
+        "filename": "slon_a_jeho_strycek_023.md",
+        "xhtml": "slon_a_jeho_strycek_023.xhtml"
+      },
+      {
+        "title": "20. kapitola",
+        "filename": "slon_a_jeho_strycek_024.md",
+        "xhtml": "slon_a_jeho_strycek_024.xhtml"
+      },
+      {
+        "title": "21. kapitola",
+        "filename": "slon_a_jeho_strycek_025.md",
+        "xhtml": "slon_a_jeho_strycek_025.xhtml"
+      },
+      {
+        "title": "22. kapitola",
+        "filename": "slon_a_jeho_strycek_026.md",
+        "xhtml": "slon_a_jeho_strycek_026.xhtml"
+      },
+      {
+        "title": "23. kapitola",
+        "filename": "slon_a_jeho_strycek_027.md",
+        "xhtml": "slon_a_jeho_strycek_027.xhtml"
+      },
+      {
+        "title": "24. kapitola",
+        "filename": "slon_a_jeho_strycek_028.md",
+        "xhtml": "slon_a_jeho_strycek_028.xhtml"
+      },
+      {
+        "title": "25. kapitola",
+        "filename": "slon_a_jeho_strycek_029.md",
+        "xhtml": "slon_a_jeho_strycek_029.xhtml"
+      },
+      {
+        "title": "26. kapitola",
+        "filename": "slon_a_jeho_strycek_030.md",
+        "xhtml": "slon_a_jeho_strycek_030.xhtml"
+      },
+      {
+        "title": "27. kapitola",
+        "filename": "slon_a_jeho_strycek_031.md",
+        "xhtml": "slon_a_jeho_strycek_031.xhtml"
+      },
+      {
+        "title": "28. kapitola",
+        "filename": "slon_a_jeho_strycek_032.md",
+        "xhtml": "slon_a_jeho_strycek_032.xhtml"
+      },
+      {
+        "title": "29. kapitola",
+        "filename": "slon_a_jeho_strycek_033.md",
+        "xhtml": "slon_a_jeho_strycek_033.xhtml"
+      },
+      {
+        "title": "Pavel ŠrutSlon a jeho strýček",
+        "filename": "slon_a_jeho_strycek_034.md",
+        "xhtml": "slon_a_jeho_strycek_034.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_slon_a_jeho_strycek.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr1.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr11.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr2.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_obrazky_-12-12-",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_verse",
+      "MLP_znak_kurziva_11b",
+      "MLP_znak_tucne_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-6",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectAttribute-4",
+      "_idGenObjectAttribute-5",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": null
+  }
+}
