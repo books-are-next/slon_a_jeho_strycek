@@ -1,0 +1,697 @@
+{
+  "author": "Pavel Šrut",
+  "identifier": "srut-slon-a-jeho-strycek-17befa6",
+  "isbn": "978-80-274-1474-1; 978-80-274-1473-4; 978-80-274-1475-8",
+  "languagecode": "cs",
+  "modified": "2021-07-29T09:06:36.929Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Slon a jeho strýček",
+  "revision": "17befa6",
+  "generatedAt": {
+    "date": "Tue Aug 24 2021 13:50:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1629813028692
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "colophon.html",
+      "words": 144,
+      "chars": 925,
+      "ideas": 20,
+      "role": "colophon",
+      "order": null,
+      "next": "slon_a_jeho_strycek_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: ''\nsubtitle: ''",
+              "id": "subtitle-",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "slon_a_jeho_strycek_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "slon_a_jeho_strycek_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "slon_a_jeho_strycek_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "slon_a_jeho_strycek_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "slon_a_jeho_strycek_003.html",
+      "words": 6,
+      "chars": 29,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "slon_a_jeho_strycek_001.html",
+      "next": "slon_a_jeho_strycek_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. kapitola",
+      "file": "slon_a_jeho_strycek_005.html",
+      "words": 945,
+      "chars": 5612,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 2,
+      "prev": "slon_a_jeho_strycek_003.html",
+      "next": "slon_a_jeho_strycek_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. kapitola",
+      "file": "slon_a_jeho_strycek_006.html",
+      "words": 1077,
+      "chars": 6200,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 3,
+      "prev": "slon_a_jeho_strycek_005.html",
+      "next": "slon_a_jeho_strycek_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. kapitola",
+      "file": "slon_a_jeho_strycek_007.html",
+      "words": 644,
+      "chars": 3786,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 4,
+      "prev": "slon_a_jeho_strycek_006.html",
+      "next": "slon_a_jeho_strycek_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4. kapitola",
+      "file": "slon_a_jeho_strycek_008.html",
+      "words": 1192,
+      "chars": 7258,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 5,
+      "prev": "slon_a_jeho_strycek_007.html",
+      "next": "slon_a_jeho_strycek_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5. kapitola",
+      "file": "slon_a_jeho_strycek_009.html",
+      "words": 745,
+      "chars": 4413,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 6,
+      "prev": "slon_a_jeho_strycek_008.html",
+      "next": "slon_a_jeho_strycek_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6. kapitola",
+      "file": "slon_a_jeho_strycek_010.html",
+      "words": 903,
+      "chars": 5402,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 7,
+      "prev": "slon_a_jeho_strycek_009.html",
+      "next": "slon_a_jeho_strycek_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. kapitola",
+      "file": "slon_a_jeho_strycek_011.html",
+      "words": 1019,
+      "chars": 5991,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 8,
+      "prev": "slon_a_jeho_strycek_010.html",
+      "next": "slon_a_jeho_strycek_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8. kapitola",
+      "file": "slon_a_jeho_strycek_012.html",
+      "words": 1021,
+      "chars": 6198,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 9,
+      "prev": "slon_a_jeho_strycek_011.html",
+      "next": "slon_a_jeho_strycek_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9. kapitola",
+      "file": "slon_a_jeho_strycek_013.html",
+      "words": 680,
+      "chars": 4199,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 10,
+      "prev": "slon_a_jeho_strycek_012.html",
+      "next": "slon_a_jeho_strycek_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10. kapitola",
+      "file": "slon_a_jeho_strycek_014.html",
+      "words": 775,
+      "chars": 4716,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 11,
+      "prev": "slon_a_jeho_strycek_013.html",
+      "next": "slon_a_jeho_strycek_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11. kapitola",
+      "file": "slon_a_jeho_strycek_015.html",
+      "words": 578,
+      "chars": 3487,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 12,
+      "prev": "slon_a_jeho_strycek_014.html",
+      "next": "slon_a_jeho_strycek_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12. kapitola",
+      "file": "slon_a_jeho_strycek_016.html",
+      "words": 632,
+      "chars": 3750,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 13,
+      "prev": "slon_a_jeho_strycek_015.html",
+      "next": "slon_a_jeho_strycek_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13. kapitola",
+      "file": "slon_a_jeho_strycek_017.html",
+      "words": 1024,
+      "chars": 6134,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 14,
+      "prev": "slon_a_jeho_strycek_016.html",
+      "next": "slon_a_jeho_strycek_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14. kapitola",
+      "file": "slon_a_jeho_strycek_018.html",
+      "words": 1178,
+      "chars": 7237,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 15,
+      "prev": "slon_a_jeho_strycek_017.html",
+      "next": "slon_a_jeho_strycek_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15. kapitola",
+      "file": "slon_a_jeho_strycek_019.html",
+      "words": 409,
+      "chars": 2431,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 16,
+      "prev": "slon_a_jeho_strycek_018.html",
+      "next": "slon_a_jeho_strycek_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16. kapitola",
+      "file": "slon_a_jeho_strycek_020.html",
+      "words": 869,
+      "chars": 5159,
+      "ideas": 55,
+      "role": "chapter",
+      "order": 17,
+      "prev": "slon_a_jeho_strycek_019.html",
+      "next": "slon_a_jeho_strycek_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17. kapitola",
+      "file": "slon_a_jeho_strycek_021.html",
+      "words": 566,
+      "chars": 3342,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 18,
+      "prev": "slon_a_jeho_strycek_020.html",
+      "next": "slon_a_jeho_strycek_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18. kapitola",
+      "file": "slon_a_jeho_strycek_022.html",
+      "words": 721,
+      "chars": 4348,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 19,
+      "prev": "slon_a_jeho_strycek_021.html",
+      "next": "slon_a_jeho_strycek_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19. kapitola",
+      "file": "slon_a_jeho_strycek_023.html",
+      "words": 527,
+      "chars": 3215,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 20,
+      "prev": "slon_a_jeho_strycek_022.html",
+      "next": "slon_a_jeho_strycek_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20. kapitola",
+      "file": "slon_a_jeho_strycek_024.html",
+      "words": 703,
+      "chars": 4252,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 21,
+      "prev": "slon_a_jeho_strycek_023.html",
+      "next": "slon_a_jeho_strycek_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21. kapitola",
+      "file": "slon_a_jeho_strycek_025.html",
+      "words": 792,
+      "chars": 4710,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 22,
+      "prev": "slon_a_jeho_strycek_024.html",
+      "next": "slon_a_jeho_strycek_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22. kapitola",
+      "file": "slon_a_jeho_strycek_026.html",
+      "words": 680,
+      "chars": 3783,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 23,
+      "prev": "slon_a_jeho_strycek_025.html",
+      "next": "slon_a_jeho_strycek_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23. kapitola",
+      "file": "slon_a_jeho_strycek_027.html",
+      "words": 738,
+      "chars": 4588,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 24,
+      "prev": "slon_a_jeho_strycek_026.html",
+      "next": "slon_a_jeho_strycek_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24. kapitola",
+      "file": "slon_a_jeho_strycek_028.html",
+      "words": 641,
+      "chars": 3821,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 25,
+      "prev": "slon_a_jeho_strycek_027.html",
+      "next": "slon_a_jeho_strycek_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "25. kapitola",
+      "file": "slon_a_jeho_strycek_029.html",
+      "words": 1674,
+      "chars": 9712,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 26,
+      "prev": "slon_a_jeho_strycek_028.html",
+      "next": "slon_a_jeho_strycek_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "25. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "26. kapitola",
+      "file": "slon_a_jeho_strycek_030.html",
+      "words": 573,
+      "chars": 3401,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 27,
+      "prev": "slon_a_jeho_strycek_029.html",
+      "next": "slon_a_jeho_strycek_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "26. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "27. kapitola",
+      "file": "slon_a_jeho_strycek_031.html",
+      "words": 600,
+      "chars": 3794,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 28,
+      "prev": "slon_a_jeho_strycek_030.html",
+      "next": "slon_a_jeho_strycek_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "27. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "28. kapitola",
+      "file": "slon_a_jeho_strycek_032.html",
+      "words": 811,
+      "chars": 4990,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 29,
+      "prev": "slon_a_jeho_strycek_031.html",
+      "next": "slon_a_jeho_strycek_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "28. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "29. kapitola",
+      "file": "slon_a_jeho_strycek_033.html",
+      "words": 823,
+      "chars": 4860,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 30,
+      "prev": "slon_a_jeho_strycek_032.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "29. kapitola",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 23690,
+      "chars": 141743,
+      "ideas": 1375
+    },
+    "chapters": {
+      "words": 23546,
+      "chars": 140818,
+      "ideas": 1355
+    }
+  }
+}
