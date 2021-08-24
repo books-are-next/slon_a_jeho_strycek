@@ -11,22 +11,25 @@
     },
     "elements": {
       "title": "MLP_uroven2_kapitola\n",
-      "subtitle": "MLP_text_uprostred",
+      "subtitle": " MLP_text_uprostred",
       "h2": "",
       "h3": "",
       "h4": "",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
-      "invisibleHr": "",
-      "invisibleHrBefore": "",
-      "invisibleHrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
       "blockquote": "",
       "figure": "",
       "em": "",
       "strong": "",
       "remove": "",
-      "ignore": "visibility Hyperlink\nvisibility MLP_citacni_str_rozdeleni\nvisibility MLP_licence_hypertext\nvisibility MLP_licence_obrazek\nvisibility MLP_licence_paragraf\nvisibility MLP_licence_text"
+      "ignore": "visibility Hyperlink\nvisibility MLP_citacni_str_rozdeleni\nvisibility MLP_licence_hypertext\nvisibility MLP_licence_obrazek\nvisibility MLP_licence_paragraf\nvisibility MLP_licence_text",
+      "invisibleHr": "",
+      "invisibleHrBefore": "",
+      "invisibleHrAfter": ""
     },
     "structure": [
       {
@@ -77,7 +80,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "NÁS SEZNÁMÍ S NEJMENŠÍM SLONEM NA SVĚTĚ A NEODPOVÍ NÁM NA OTÁZKU, PROČ CHCE MÍT VELBLOUD TŘETÍ HRB"
       },
       {
         "filename": "slon_a_jeho_strycek_006.md",
@@ -87,7 +91,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "NÁM POVÍ, KTERÝ TVOR NEMÁ ANI ŠPETKU SMYSLU PRO LEGRACI"
       },
       {
         "filename": "slon_a_jeho_strycek_007.md",
@@ -97,7 +102,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "BY SE NEMĚLA ČÍST PŘED SPANÍM, NEBOŤ V NÍ POPRVÉ PADNE JMÉNO ŠKARDA"
       },
       {
         "filename": "slon_a_jeho_strycek_008.md",
@@ -107,7 +113,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VE KTERÉ SE RÍŠA VYPRAVÍ K ŽELVĚ CELESTÝNĚ,ALE DO CESTY MU VSTOUPÍ ZVLÁŠTNÍ HAD"
       },
       {
         "filename": "slon_a_jeho_strycek_009.md",
@@ -117,7 +124,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VYPRÁVÍ O MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A O SNU,V NĚMŽ JE SLŮNĚ PASOVÁNO NA RYTÍŘE ŽELEZNÉHO RICHARDA"
       },
       {
         "filename": "slon_a_jeho_strycek_010.md",
@@ -127,7 +135,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "ZE KTERÉ BY MÁJA NEJRADĚJI ODNESLA SLŮNĚ NA RAMENOU"
       },
       {
         "filename": "slon_a_jeho_strycek_011.md",
@@ -137,7 +146,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VÁS POUČÍ O TOM, JAK SE LÁKAJÍ VČELY NA MEDVĚDA"
       },
       {
         "filename": "slon_a_jeho_strycek_012.md",
@@ -147,7 +157,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "NÁS ZAVEDE K ŽELVĚ CELESTÝNĚ, U NÍŽ SE NĚCO CHYSTÁ"
       },
       {
         "filename": "slon_a_jeho_strycek_013.md",
@@ -157,7 +168,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "SE STANE NAŠIM PŘÁTELŮM DVAKRÁT OSUDNOU A POSLEDNÍ SLOVO V NÍ MÁ OPĚT KRTEK"
       },
       {
         "filename": "slon_a_jeho_strycek_014.md",
@@ -167,7 +179,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "NÁM PŘEDSTAVÍ MYŠÁKA IŠTVÁNA, A TO PRÁVĚ VE CHVÍLI, KDY SE STANE HRDINOU"
       },
       {
         "filename": "slon_a_jeho_strycek_015.md",
@@ -177,7 +190,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VYPRÁVÍ O MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A O TOM, CO DĚLALO V TU NOC NIC NETUŠÍCÍ SLŮNĚ"
       },
       {
         "filename": "slon_a_jeho_strycek_016.md",
@@ -187,7 +201,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VE KTERÉ SI SLŮNĚ STÝSKÁ, ŽE SE NENARODILO JAKO MOTÝL"
       },
       {
         "filename": "slon_a_jeho_strycek_017.md",
@@ -197,7 +212,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VE KTERÉ SI RÍŠA STĚŽUJE, MÁJA JEDNÁ, ŽELVA UČINÍ PODIVNÝ POHYB A HEURÉKA ODCHÁZÍ"
       },
       {
         "filename": "slon_a_jeho_strycek_018.md",
@@ -207,7 +223,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "NÁM POVÍ, KDO BYL ROZMRZELÝ, KDO ZARMOUCENÝ, KDO ROZTRPČENÝ A KDO SE PYŠNĚ USMÍVAL"
       },
       {
         "filename": "slon_a_jeho_strycek_019.md",
@@ -217,7 +234,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "JE DOCELA KRÁTKÁ A NIC SE V NÍ VLASTNĚ NEDĚJE"
       },
       {
         "filename": "slon_a_jeho_strycek_020.md",
@@ -227,7 +245,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "JE PLNÁ PIKLŮ A ZAČÍNÁ VĚTOU:"
       },
       {
         "filename": "slon_a_jeho_strycek_021.md",
@@ -237,7 +256,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VYPRÁVÍ O MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A O KRÁLI OPIC"
       },
       {
         "filename": "slon_a_jeho_strycek_022.md",
@@ -247,7 +267,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VE KTERÉ SE RÍŠOVI DOPORUČUJE, ABY ŠEL NA MAŠKARNÍ REJ ZA VELBLOUDA"
       },
       {
         "filename": "slon_a_jeho_strycek_023.md",
@@ -257,7 +278,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "SE ODEHRÁVÁ PŘED SÍDLEM CHORÉHO PAVOUKA KRCHA A KONČÍ VOLNÝM NESLYŠNÝM PÁDEM"
       },
       {
         "filename": "slon_a_jeho_strycek_024.md",
@@ -267,7 +289,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "NÁM PŘEDSTAVÍ RÍŠU V KAKTUSOVÉM BRNĚNÍ A UKÁŽE, CO SE MŮŽE STÁT, KDYŽ SI CHCE NĚKDO UTRHNOUT VLČÍ MÁK"
       },
       {
         "filename": "slon_a_jeho_strycek_025.md",
@@ -277,7 +300,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VE KTERÉ RÍŠA ZVOLÁ: VZDEJ SE, ŠKARDO! –A ŠKARDA SE DO ZEMĚ PROPADNE"
       },
       {
         "filename": "slon_a_jeho_strycek_026.md",
@@ -287,7 +311,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "NÁM PORADÍ, JAK SE STÁT HRDINOU"
       },
       {
         "filename": "slon_a_jeho_strycek_027.md",
@@ -297,7 +322,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VYPRÁVÍ O TOM, JAK MYŠÁK IŠTVÁN DOBYL SRDCE NEVRAŽIVÉ ŽELVY"
       },
       {
         "filename": "slon_a_jeho_strycek_028.md",
@@ -307,7 +333,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "SE ODEHRÁVÁ V PAVOUČÍM MOČÁLU A MÁJA V NÍ ANI SLŮVKO NEPROMLUVÍ; TAK JE JÍ ÚZKO"
       },
       {
         "filename": "slon_a_jeho_strycek_029.md",
@@ -317,7 +344,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VE KTERÉ JE RÍŠA PASOVÁN NA LSTIVÉHO RICHARDA A ŠKARDA VOLÁ, ŽE ŠE VŽDÁVÁ, A KRCH VŠECHNO ROZHODNE"
       },
       {
         "filename": "slon_a_jeho_strycek_030.md",
@@ -327,7 +355,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "VE KTERÉ HEURÉKA PLUJE VZDUCHEM VSTŘÍC PAVOUČÍMU MOČÁLU"
       },
       {
         "filename": "slon_a_jeho_strycek_031.md",
@@ -337,7 +366,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "NÁM POVÍ, JAK SE HEURÉKA PROMĚNIL V SOCHU"
       },
       {
         "filename": "slon_a_jeho_strycek_032.md",
@@ -347,7 +377,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "JE KAPITOLOU VELKÉHO SMÍRU, ŠŤASTNÉHO ROZUZLENÍ A DOBRÉ NADĚJE"
       },
       {
         "filename": "slon_a_jeho_strycek_033.md",
@@ -357,7 +388,8 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "subtitle": "JE ÚPLNĚ POSLEDNÍ, A PŘECE KONČÍ BEZ ROZLOUČENÍ"
       },
       {
         "filename": "slon_a_jeho_strycek_034.md",
@@ -377,178 +409,210 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Pavel Šrut",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-07-29T09:06:36.929Z",
-      "isbn": "978-80-274-1474-1; 978-80-274-1473-4; 978-80-274-1475-8",
-      "languageCode": "cs"
+      "modified": "2021-08-04T17:34:48.434Z"
     },
     "chapters": [
       {
-        "title": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "slon_a_jeho_strycek_001.md",
         "xhtml": "slon_a_jeho_strycek_001.xhtml"
       },
       {
-        "title": "",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "slon_a_jeho_strycek_002.md",
         "xhtml": "slon_a_jeho_strycek_002.xhtml"
       },
       {
-        "title": "Slon a jeho strýček",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "slon_a_jeho_strycek_003.md",
         "xhtml": "slon_a_jeho_strycek_003.xhtml"
       },
       {
-        "title": "Znění tohoto textu vychází z díla Slon a jeho strýček tak, jak bylo vydáno nakladatelstvím Blok v Brně v roce 1980. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "slon_a_jeho_strycek_004.md",
         "xhtml": "slon_a_jeho_strycek_004.xhtml"
       },
       {
-        "title": "1. kapitola",
+        "titleSuggest": "1. kapitola",
+        "subtitleSuggest": "NÁS SEZNÁMÍ S NEJMENŠÍM SLONEM NA SVĚTĚ A NEODPOVÍ NÁM NA OTÁZKU, PROČ CHCE MÍT VELBLOUD TŘETÍ HRB",
         "filename": "slon_a_jeho_strycek_005.md",
         "xhtml": "slon_a_jeho_strycek_005.xhtml"
       },
       {
-        "title": "2. kapitola",
+        "titleSuggest": "2. kapitola",
+        "subtitleSuggest": "NÁM POVÍ, KTERÝ TVOR NEMÁ ANI ŠPETKU SMYSLU PRO LEGRACI",
         "filename": "slon_a_jeho_strycek_006.md",
         "xhtml": "slon_a_jeho_strycek_006.xhtml"
       },
       {
-        "title": "3. kapitola",
+        "titleSuggest": "3. kapitola",
+        "subtitleSuggest": "BY SE NEMĚLA ČÍST PŘED SPANÍM, NEBOŤ V NÍ POPRVÉ PADNE JMÉNO ŠKARDA",
         "filename": "slon_a_jeho_strycek_007.md",
         "xhtml": "slon_a_jeho_strycek_007.xhtml"
       },
       {
-        "title": "4. kapitola",
+        "titleSuggest": "4. kapitola",
+        "subtitleSuggest": "VE KTERÉ SE RÍŠA VYPRAVÍ K ŽELVĚ CELESTÝNĚ,ALE DO CESTY MU VSTOUPÍ ZVLÁŠTNÍ HAD",
         "filename": "slon_a_jeho_strycek_008.md",
         "xhtml": "slon_a_jeho_strycek_008.xhtml"
       },
       {
-        "title": "5. kapitola",
+        "titleSuggest": "5. kapitola",
+        "subtitleSuggest": "VYPRÁVÍ O MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A O SNU,V NĚMŽ JE SLŮNĚ PASOVÁNO NA RYTÍŘE ŽELEZNÉHO RICHARDA",
         "filename": "slon_a_jeho_strycek_009.md",
         "xhtml": "slon_a_jeho_strycek_009.xhtml"
       },
       {
-        "title": "6. kapitola",
+        "titleSuggest": "6. kapitola",
+        "subtitleSuggest": "ZE KTERÉ BY MÁJA NEJRADĚJI ODNESLA SLŮNĚ NA RAMENOU",
         "filename": "slon_a_jeho_strycek_010.md",
         "xhtml": "slon_a_jeho_strycek_010.xhtml"
       },
       {
-        "title": "7. kapitola",
+        "titleSuggest": "7. kapitola",
+        "subtitleSuggest": "VÁS POUČÍ O TOM, JAK SE LÁKAJÍ VČELY NA MEDVĚDA",
         "filename": "slon_a_jeho_strycek_011.md",
         "xhtml": "slon_a_jeho_strycek_011.xhtml"
       },
       {
-        "title": "8. kapitola",
+        "titleSuggest": "8. kapitola",
+        "subtitleSuggest": "NÁS ZAVEDE K ŽELVĚ CELESTÝNĚ, U NÍŽ SE NĚCO CHYSTÁ",
         "filename": "slon_a_jeho_strycek_012.md",
         "xhtml": "slon_a_jeho_strycek_012.xhtml"
       },
       {
-        "title": "9. kapitola",
+        "titleSuggest": "9. kapitola",
+        "subtitleSuggest": "SE STANE NAŠIM PŘÁTELŮM DVAKRÁT OSUDNOU A POSLEDNÍ SLOVO V NÍ MÁ OPĚT KRTEK",
         "filename": "slon_a_jeho_strycek_013.md",
         "xhtml": "slon_a_jeho_strycek_013.xhtml"
       },
       {
-        "title": "10. kapitola",
+        "titleSuggest": "10. kapitola",
+        "subtitleSuggest": "NÁM PŘEDSTAVÍ MYŠÁKA IŠTVÁNA, A TO PRÁVĚ VE CHVÍLI, KDY SE STANE HRDINOU",
         "filename": "slon_a_jeho_strycek_014.md",
         "xhtml": "slon_a_jeho_strycek_014.xhtml"
       },
       {
-        "title": "11. kapitola",
+        "titleSuggest": "11. kapitola",
+        "subtitleSuggest": "VYPRÁVÍ O MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A O TOM, CO DĚLALO V TU NOC NIC NETUŠÍCÍ SLŮNĚ",
         "filename": "slon_a_jeho_strycek_015.md",
         "xhtml": "slon_a_jeho_strycek_015.xhtml"
       },
       {
-        "title": "12. kapitola",
+        "titleSuggest": "12. kapitola",
+        "subtitleSuggest": "VE KTERÉ SI SLŮNĚ STÝSKÁ, ŽE SE NENARODILO JAKO MOTÝL",
         "filename": "slon_a_jeho_strycek_016.md",
         "xhtml": "slon_a_jeho_strycek_016.xhtml"
       },
       {
-        "title": "13. kapitola",
+        "titleSuggest": "13. kapitola",
+        "subtitleSuggest": "VE KTERÉ SI RÍŠA STĚŽUJE, MÁJA JEDNÁ, ŽELVA UČINÍ PODIVNÝ POHYB A HEURÉKA ODCHÁZÍ",
         "filename": "slon_a_jeho_strycek_017.md",
         "xhtml": "slon_a_jeho_strycek_017.xhtml"
       },
       {
-        "title": "14. kapitola",
+        "titleSuggest": "14. kapitola",
+        "subtitleSuggest": "NÁM POVÍ, KDO BYL ROZMRZELÝ, KDO ZARMOUCENÝ, KDO ROZTRPČENÝ A KDO SE PYŠNĚ USMÍVAL",
         "filename": "slon_a_jeho_strycek_018.md",
         "xhtml": "slon_a_jeho_strycek_018.xhtml"
       },
       {
-        "title": "15. kapitola",
+        "titleSuggest": "15. kapitola",
+        "subtitleSuggest": "JE DOCELA KRÁTKÁ A NIC SE V NÍ VLASTNĚ NEDĚJE",
         "filename": "slon_a_jeho_strycek_019.md",
         "xhtml": "slon_a_jeho_strycek_019.xhtml"
       },
       {
-        "title": "16. kapitola",
+        "titleSuggest": "16. kapitola",
+        "subtitleSuggest": "JE PLNÁ PIKLŮ A ZAČÍNÁ VĚTOU:",
         "filename": "slon_a_jeho_strycek_020.md",
         "xhtml": "slon_a_jeho_strycek_020.xhtml"
       },
       {
-        "title": "17. kapitola",
+        "titleSuggest": "17. kapitola",
+        "subtitleSuggest": "VYPRÁVÍ O MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A O KRÁLI OPIC",
         "filename": "slon_a_jeho_strycek_021.md",
         "xhtml": "slon_a_jeho_strycek_021.xhtml"
       },
       {
-        "title": "18. kapitola",
+        "titleSuggest": "18. kapitola",
+        "subtitleSuggest": "VE KTERÉ SE RÍŠOVI DOPORUČUJE, ABY ŠEL NA MAŠKARNÍ REJ ZA VELBLOUDA",
         "filename": "slon_a_jeho_strycek_022.md",
         "xhtml": "slon_a_jeho_strycek_022.xhtml"
       },
       {
-        "title": "19. kapitola",
+        "titleSuggest": "19. kapitola",
+        "subtitleSuggest": "SE ODEHRÁVÁ PŘED SÍDLEM CHORÉHO PAVOUKA KRCHA A KONČÍ VOLNÝM NESLYŠNÝM PÁDEM",
         "filename": "slon_a_jeho_strycek_023.md",
         "xhtml": "slon_a_jeho_strycek_023.xhtml"
       },
       {
-        "title": "20. kapitola",
+        "titleSuggest": "20. kapitola",
+        "subtitleSuggest": "NÁM PŘEDSTAVÍ RÍŠU V KAKTUSOVÉM BRNĚNÍ A UKÁŽE, CO SE MŮŽE STÁT, KDYŽ SI CHCE NĚKDO UTRHNOUT VLČÍ MÁK",
         "filename": "slon_a_jeho_strycek_024.md",
         "xhtml": "slon_a_jeho_strycek_024.xhtml"
       },
       {
-        "title": "21. kapitola",
+        "titleSuggest": "21. kapitola",
+        "subtitleSuggest": "VE KTERÉ RÍŠA ZVOLÁ: VZDEJ SE, ŠKARDO! –A ŠKARDA SE DO ZEMĚ PROPADNE",
         "filename": "slon_a_jeho_strycek_025.md",
         "xhtml": "slon_a_jeho_strycek_025.xhtml"
       },
       {
-        "title": "22. kapitola",
+        "titleSuggest": "22. kapitola",
+        "subtitleSuggest": "NÁM PORADÍ, JAK SE STÁT HRDINOU",
         "filename": "slon_a_jeho_strycek_026.md",
         "xhtml": "slon_a_jeho_strycek_026.xhtml"
       },
       {
-        "title": "23. kapitola",
+        "titleSuggest": "23. kapitola",
+        "subtitleSuggest": "VYPRÁVÍ O TOM, JAK MYŠÁK IŠTVÁN DOBYL SRDCE NEVRAŽIVÉ ŽELVY",
         "filename": "slon_a_jeho_strycek_027.md",
         "xhtml": "slon_a_jeho_strycek_027.xhtml"
       },
       {
-        "title": "24. kapitola",
+        "titleSuggest": "24. kapitola",
+        "subtitleSuggest": "SE ODEHRÁVÁ V PAVOUČÍM MOČÁLU A MÁJA V NÍ ANI SLŮVKO NEPROMLUVÍ; TAK JE JÍ ÚZKO",
         "filename": "slon_a_jeho_strycek_028.md",
         "xhtml": "slon_a_jeho_strycek_028.xhtml"
       },
       {
-        "title": "25. kapitola",
+        "titleSuggest": "25. kapitola",
+        "subtitleSuggest": "VE KTERÉ JE RÍŠA PASOVÁN NA LSTIVÉHO RICHARDA A ŠKARDA VOLÁ, ŽE ŠE VŽDÁVÁ, A KRCH VŠECHNO ROZHODNE",
         "filename": "slon_a_jeho_strycek_029.md",
         "xhtml": "slon_a_jeho_strycek_029.xhtml"
       },
       {
-        "title": "26. kapitola",
+        "titleSuggest": "26. kapitola",
+        "subtitleSuggest": "VE KTERÉ HEURÉKA PLUJE VZDUCHEM VSTŘÍC PAVOUČÍMU MOČÁLU",
         "filename": "slon_a_jeho_strycek_030.md",
         "xhtml": "slon_a_jeho_strycek_030.xhtml"
       },
       {
-        "title": "27. kapitola",
+        "titleSuggest": "27. kapitola",
+        "subtitleSuggest": "NÁM POVÍ, JAK SE HEURÉKA PROMĚNIL V SOCHU",
         "filename": "slon_a_jeho_strycek_031.md",
         "xhtml": "slon_a_jeho_strycek_031.xhtml"
       },
       {
-        "title": "28. kapitola",
+        "titleSuggest": "28. kapitola",
+        "subtitleSuggest": "JE KAPITOLOU VELKÉHO SMÍRU, ŠŤASTNÉHO ROZUZLENÍ A DOBRÉ NADĚJE",
         "filename": "slon_a_jeho_strycek_032.md",
         "xhtml": "slon_a_jeho_strycek_032.xhtml"
       },
       {
-        "title": "29. kapitola",
+        "titleSuggest": "29. kapitola",
+        "subtitleSuggest": "JE ÚPLNĚ POSLEDNÍ, A PŘECE KONČÍ BEZ ROZLOUČENÍ",
         "filename": "slon_a_jeho_strycek_033.md",
         "xhtml": "slon_a_jeho_strycek_033.xhtml"
       },
       {
-        "title": "Pavel ŠrutSlon a jeho strýček",
+        "titleSuggest": "",
+        "subtitleSuggest": "",
         "filename": "slon_a_jeho_strycek_034.md",
         "xhtml": "slon_a_jeho_strycek_034.xhtml"
       }
@@ -628,6 +692,12 @@
       "_idGenObjectLayout-1",
       "_idGenObjectStyleOverride-1"
     ],
-    "github": null
+    "github": {
+      "user": "books-are-next",
+      "repo": "slon_a_jeho_strycek"
+    },
+    "generatedAt": 1628098488857
   }
 }
+
+  
