@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Slon a jeho strýček",
@@ -7,7 +8,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-07-29T09:06:36.929Z",
       "isbn": "978-80-274-1474-1; 978-80-274-1473-4; 978-80-274-1475-8",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola\n",
@@ -57,7 +60,7 @@
         "xhtml": "slon_a_jeho_strycek_003.xhtml",
         "title": "",
         "id": 2,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -700,4 +703,3 @@
   }
 }
 
-  
