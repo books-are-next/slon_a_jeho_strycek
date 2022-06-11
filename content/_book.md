@@ -10,7 +10,7 @@ meta:
   modified: '2021-07-29T09:06:36.929Z'
   isbn: 978-80-274-1474-1; 978-80-274-1473-4; 978-80-274-1475-8
   languageCode: cs
-chapters:
+readingOrder:
   - slon_a_jeho_strycek_001.html
   - slon_a_jeho_strycek_003.html
   - slon_a_jeho_strycek_005.html
