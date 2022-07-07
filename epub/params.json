@@ -71,7 +71,7 @@
         "xhtml": "slon_a_jeho_strycek_004.xhtml",
         "title": "",
         "id": 3,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": true,
         "children": []
@@ -400,7 +400,7 @@
         "xhtml": "slon_a_jeho_strycek_034.xhtml",
         "title": "",
         "id": 33,
-        "role": "colophon",
+        "role": "about",
         "numberedChildren": false,
         "inToc": false,
         "children": []
