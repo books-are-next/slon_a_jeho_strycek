@@ -1,7 +1,10 @@
 ---
-title: "19.\_kapitola"
+title: "19\\.\_kapitola"
 subtitle: "SE ODEHRÁVÁ PŘED SÍDLEM CHORÉHO PAVOUKA KRCHA A\_KONČÍ VOLNÝM NESLYŠNÝM PÁDEM"
+contentType: prose
 ---
+
+<section>
 
 V životě chorého pavouka Krcha se nic nezměnilo, alespoň nic k lepšímu. Stále bydlel ve stále chatrnější pavučině zavěšené v keři u vchodu do Pavoučího močálu. A stále ještě dýchal. Nic víc a nic zajímavějšího se o něm říci nedá.
 
@@ -69,3 +72,5 @@ Vypadalo to jako skutečný závoj, a když se Maršálka usadila Škardě nad 
 Umytá, vyšňořená a navoněná opelichaná kočka se tanečním krokem rozběhla na Kukuřičný vrch.
 
 Byla neděle a na myším panství právě kukuřičný kvapík zahajoval myší rej…
+
+</section>

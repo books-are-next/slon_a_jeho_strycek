@@ -1,7 +1,10 @@
 ---
-title: "12.\_kapitola"
+title: "12\\.\_kapitola"
 subtitle: VE KTERÉ SI SLŮNĚ STÝSKÁ, ŽE SE NENARODILO JAKO MOTÝL
+contentType: prose
 ---
+
+<section>
 
 Krtek se rozhodl, že vyhloubí past hned vedle své krtiny, a trvalo dost dlouho, než mu to Škarda rozmluvila.
 
@@ -74,3 +77,5 @@ Nahoře se něco povědomě zavrtělo a povědomě vypísklo:
 „Páni, Richarde! Jsem! Jsem tady nahoře! A ty?“
 
 „Já jsem dole,“ zaduněl Richard z jámy. „Kde bych byl?“
+
+</section>

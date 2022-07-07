@@ -1,7 +1,10 @@
 ---
-title: "28.\_kapitola"
+title: "28\\.\_kapitola"
 subtitle: "JE KAPITOLOU VELKÉHO SMÍRU, ŠŤASTNÉHO ROZUZLENÍ A\_DOBRÉ NADĚJE"
+contentType: prose
 ---
+
+<section>
 
 Všichni čtyři stáli teď mlčky před močálem. Ríša se díval na Máju. Mája se dívala na Ríšu. Celestýna hleděla do dálky. A strýček Heu­réka čučel do země. Slůně sice ještě před chviličkou naznačilo, že by punčocha šla snadno vylovit, ale Celestýna ho zarazila.
 
@@ -98,3 +101,5 @@ Jenomže nic takového se neozvalo. Velbloud se vrátil k želvě bezmála rozj
 „Pak budu tedy šťastna, když mne do mého domku doprovodíš,“ pousmála se želva.
 
 „Milerád zvolním krok,“ přislíbil dvorně velbloud a křepce si vyšlápl.
+
+</section>

@@ -1,7 +1,10 @@
 ---
-title: "27.\_kapitola"
+title: "27\\.\_kapitola"
 subtitle: "NÁM POVÍ, JAK SE HEURÉKA PROMĚNIL V\_SOCHU"
+contentType: prose
 ---
+
+<section>
 
 Po všech rušných událostech a po tom nečekaném rozuzlení si Ríša s Májou najednou neměli už co povídat. Na oba padla veliká únava, a tak jen čekali, kdo první navrhne, že by se mělo jít domů.
 
@@ -90,3 +93,5 @@ Reptal Pavoučí močál, kterému unikla další oběť.
 BLABLABLABLABLA…
 
 Černá voda bublala a stahovala ke dnu alespoň chabou náhradu… zmazanou a potrhanou Celestýninu punčochu.
+
+</section>

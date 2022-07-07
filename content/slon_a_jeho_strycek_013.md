@@ -1,7 +1,10 @@
 ---
-title: "9.\_kapitola"
+title: "9\\.\_kapitola"
 subtitle: "SE STANE NAŠIM PŘÁTELŮM DVAKRÁT OSUDNOU A\_POSLEDNÍ SLOVO V\_NÍ MÁ OPĚT KRTEK"
+contentType: prose
 ---
+
+<section>
 
 Poradu nad svíčkou zahájila Škarda.
 
@@ -92,3 +95,5 @@ Celestýna si z polospánku odfrkla, Škarda zdrceně zamňoukla a Krtek spadl
 „Já například umím dělat do země díry. Zrovna se mi zdálo, že jsem si jednu vyhrabal. Nebyla tak velká, aby se do ní vešli dva sloni, to ne. Ale jednomu mrňavému slonovi, který si dovolil rozdupat mé krtiny, pasovala přesně na míru. To jo. To tedy jo. Jakože se Krtek jmenuju!“
 
 A bylo to.
+
+</section>

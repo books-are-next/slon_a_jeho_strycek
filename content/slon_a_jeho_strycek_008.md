@@ -1,7 +1,10 @@
 ---
-title: "4.\_kapitola"
+title: "4\\.\_kapitola"
 subtitle: "VE KTERÉ SE RÍŠA VYPRAVÍ K\_ŽELVĚ CELESTÝNĚ,ALE DO CESTY MU VSTOUPÍ ZVLÁŠTNÍ HAD"
+contentType: prose
 ---
+
+<section>
 
 Ríšovi už dlouho vrtalo hlavou, jaké asi tajemství skrývá strýčkův třetí hrb. Tím spíše, že se vlastně o žádném hrbu nedalo mluvit. Heuréka měl jako každý velbloud dvouhrbý na zádech dva krásné kopečky, to ano. Ale ten třetí hrb, na kterém si strýček tolik zakládal, nebyl o nic větší než docela malý kokosový oříšek.
 
@@ -122,3 +125,5 @@ Naštěstí dřív než mohlo slůně odpovědět, ozvalo se zdálky mohutné a�
 „Stavím, Ríšo!“ řekla Mája.
 
 „Vyprášíme jí kožich, Májo,“ řekl Ríša a rozběhl se domů, protože cítil ve vzduchu Bertin výchovný záhlavec.
+
+</section>

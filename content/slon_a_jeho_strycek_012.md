@@ -1,7 +1,10 @@
 ---
-title: "8.\_kapitola"
+title: "8\\.\_kapitola"
 subtitle: "NÁS ZAVEDE K\_ŽELVĚ CELESTÝNĚ, U\_NÍŽ SE NĚCO CHYSTÁ"
+contentType: prose
 ---
+
+<section>
 
 Od Ríšovy trestné výpravy na Kukuřičný vrch uplynul víc než týden. Po celý čas nikdo Škardu na myším panství nespatřil.
 
@@ -100,3 +103,5 @@ Krtek si na kanapi čistil pracky od hlíny a zřejmě si nepřál být nikým 
 Krtek zvedl hlavu a zamžoural do svíčky.
 
 „Krtek!“ řekl udiveně. „Můj táta se jmenoval Krtek a můj děda se jmenoval Krtek a já se po nich jmenuju Krtek. Přece se kvůli vám nedám přejmenovat!“
+
+</section>

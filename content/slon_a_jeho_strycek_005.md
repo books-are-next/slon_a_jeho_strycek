@@ -1,9 +1,12 @@
 ---
-title: "1.\_kapitola"
+title: "1\\.\_kapitola"
 subtitle: >-
   NÁS SEZNÁMÍ S NEJMENŠÍM SLONEM NA SVĚTĚ A NEODPOVÍ NÁM NA OTÁZKU, PROČ CHCE
   MÍT VELBLOUD TŘETÍ HRB
+contentType: prose
 ---
+
+<section>
 
 Narodil se slon.
 
@@ -80,3 +83,5 @@ Milá Adalberta se za moudrým přítelem dívala, dokud jí ho déšť zcela ne
 „Aha,“ přikývl Ríša a opět vypadal jako slůně, které o něčem usilovně přemýšlí. A vypadal tak dokud neusnul.
 
 Tedy zhruba tři celé dlouhé minuty…
+
+</section>

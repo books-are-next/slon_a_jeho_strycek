@@ -1,7 +1,10 @@
 ---
-title: "26.\_kapitola"
+title: "26\\.\_kapitola"
 subtitle: VE KTERÉ HEURÉKA PLUJE VZDUCHEM VSTŘÍC PAVOUČÍMU MOČÁLU
+contentType: prose
 ---
+
+<section>
 
 Co je to platné, že Ríša se stal hrdinou, když jeho maminka Tlustá Berta měla strach. Pobíhala ve stále širších kruzích kolem domova, ale Ríša nikde. Les duněl pod jejíma nohama a strýček Heuréka, sužovaný bolestmi, podusával trpělivě po jejím boku. Úpěl a naříkal, stěžoval si na hroznou bolest v zádech, až se mu podařilo přimět Adalbertu, aby se posadila.
 
@@ -46,3 +49,5 @@ Milá Adalberta ani nehlesla. Vzala cípy své sváteční zástěry a pevně j
 Šťastnou náhodou se však vítr zvedl a opřel se do zástěry, která se vzdula jako plachta korábu. Heuréka vyhekl a s pokrčenýma nohama se pomalu vznesl nad úžasem oněmělou slonici.
 
 Nový závan větru vyhoupl velblouda ještě výš, až nad stromy. Vítr bil do plachty a strýček Heuréka s voláním: „Plachtím! Při památce svého pradědečka plachtím…!“ plul vzduchem vstříc Pavoučímu močálu.
+
+</section>

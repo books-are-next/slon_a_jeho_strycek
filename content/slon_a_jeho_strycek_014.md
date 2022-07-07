@@ -1,7 +1,10 @@
 ---
-title: "10.\_kapitola"
+title: "10\\.\_kapitola"
 subtitle: "NÁM PŘEDSTAVÍ MYŠÁKA IŠTVÁNA, A\_TO PRÁVĚ VE CHVÍLI, KDY SE STANE HRDINOU"
+contentType: prose
 ---
+
+<section>
 
 Myšák Ištván byl dobrodružná povaha a fešák.
 
@@ -92,3 +95,5 @@ Byl hrdinou. Byl právě tím hrdinou, kterého si vybájil ve svých smyšlený
 Neviděl, jak Celestýna otevřela oči a jak sebou zlostně škubla. Neviděl, jak se nahnula přes stůl.
 
 A dost možná, že ani neslyšel, jak za ním zaklapla dvířka klece…
+
+</section>

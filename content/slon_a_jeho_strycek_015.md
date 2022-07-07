@@ -1,7 +1,10 @@
 ---
-title: "11.\_kapitola"
+title: "11\\.\_kapitola"
 subtitle: "VYPRÁVÍ O\_MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A\_O\_TOM, CO DĚLALO V\_TU NOC NIC NETUŠÍCÍ SLŮNĚ"
+contentType: prose
 ---
+
+<section>
 
 V tu noc, kdy v Punčochovém zálivu padla Mája do pasti, nic netušící slůně nemohlo usnout. Převalovalo se s otevřenýma očima na palmových listech.
 
@@ -73,3 +76,5 @@ Ríša ještě stačil spatřit, jak z dutiny stromu vystoupila motýlí prince
 Měsíc nad palmou ubýval. Denní světlo z něho ukusovalo tak rychle, že brzy z celého kulatého měsíce zbyl jen kroužek, tenounký jako prstýnek.
 
 A bylo ráno.
+
+</section>

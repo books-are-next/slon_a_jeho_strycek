@@ -1,7 +1,10 @@
 ---
-title: "22.\_kapitola"
+title: "22\\.\_kapitola"
 subtitle: NÁM PORADÍ, JAK SE STÁT HRDINOU
+contentType: prose
 ---
+
+<section>
 
 Ríša zůstal na planině sám. A v té chvíli věděl, že je docela sám i proti Škardě. Od nikoho nemůže očekávat radu ani pomoc. Strýček Heuréka by zajisté neskrblil nějakým poučným příběhem nebo příslovím z pokladnice velbloudí moudrosti. A maminka Adalberta? Ta by mu nejspíš napařila tři dny domácího vězení, a pak by se nasupeně rozběhla za Škardou. Ale zlost je, jak známo, špatný rádce, a tak by jistě prohnanou kočku nenašla.
 
@@ -66,3 +69,5 @@ Ríša se odhoupl od stromu a skočil přímo na krtinu.
 „To je. Ona je totiž přesně na tvou míru.“
 
 „To rád slyším,“ řekl Ríša, otočil se k oněmělému Krtkovi zády a šel. A do kroku si pískal…
+
+</section>

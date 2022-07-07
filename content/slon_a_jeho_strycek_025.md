@@ -1,7 +1,10 @@
 ---
-title: "21.\_kapitola"
+title: "21\\.\_kapitola"
 subtitle: "VE KTERÉ RÍŠA ZVOLÁ: VZDEJ SE, ŠKARDO!\_–A\_ŠKARDA SE DO ZEMĚ PROPADNE"
+contentType: prose
 ---
+
+<section>
 
 Jediným myšákovým štěstím bylo, že Škarda měla políčeno na tučnější úlovek. Jen proto se u doupěte nezdržela a rychle pokračovala v cestě na Kukuřičný vrch.
 
@@ -95,3 +98,5 @@ Mája měla očka jako špendlíky, ale ze svého místa se nepohnula. A to byl
 Protože za Ríšovými zády se z úkrytu vysokých větví spustila náhle Škarda jako blesk – a dopadla přímo před myšku.
 
 A než se Ríša stačil vzpamatovat, zmizela i s Májou… jako by se do země propadla.
+
+</section>

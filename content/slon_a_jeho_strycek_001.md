@@ -1,6 +1,11 @@
 ---
 title: ''
 subtitle: ''
+contentType: prose
 ---
 
-![](./resources/obalka_slon_a_jeho_strycek.jpg)
+<section>
+
+![](../Images/obalka_slon_a_jeho_strycek.jpg)
+
+</section>

@@ -1,7 +1,10 @@
 ---
-title: "6.\_kapitola"
+title: "6\\.\_kapitola"
 subtitle: ZE KTERÉ BY MÁJA NEJRADĚJI ODNESLA SLŮNĚ NA RAMENOU
+contentType: prose
 ---
+
+<section>
 
 Tlustá Berta nebyla první Ríšovou kamarádkou právě nadšena.
 
@@ -114,3 +117,5 @@ Jenom docela nahoře, na jediném trámu, který z celé barabizny zbyl, visela
 A Mája mu vyskočila na záda.
 
 A šli slavně domů…
+
+</section>

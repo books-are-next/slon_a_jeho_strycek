@@ -1,7 +1,10 @@
 ---
-title: "17.\_kapitola"
+title: "17\\.\_kapitola"
 subtitle: "VYPRÁVÍ O MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A\_O\_KRÁLI OPIC"
+contentType: prose
 ---
+
+<section>
 
 Když v Kapradinovém lese přikazovala Škarda masařkám, aby nespaly, protože nepřítel také nespí, neměla pravdu. Měla říci, že nepřítel nemůže usnout.
 
@@ -70,3 +73,5 @@ Ale nebeský banán byl příliš vysoko. Ríša se vznesl do vzduchu, na vteři
 Srpek žlutého měsíce se ještě párkrát zhoupl v ranním vánku a pak se pomalu rozplýval.
 
 Bílé ráno zaťukalo slůněti na víčka. Maminka Adalberta kousek vedle hlasitě oddechovala ze spánku. Byl to klidný a pokojný zvuk a Ríša mu s úlevou naslouchal, protože to byl zvuk, který odhání špatné sny.
+
+</section>

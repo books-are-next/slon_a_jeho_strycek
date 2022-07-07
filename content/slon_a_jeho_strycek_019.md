@@ -1,7 +1,10 @@
 ---
-title: "15.\_kapitola"
+title: "15\\.\_kapitola"
 subtitle: "JE DOCELA KRÁTKÁ A\_NIC SE V\_NÍ VLASTNĚ NEDĚJE"
+contentType: prose
 ---
+
+<section>
 
 Skrýška, ve které seděli Mája s Ištvánem, vydávala příjemný chládek. Venku pálilo slunce, ale sem se denní světlo vlévalo jen tenkým trychtýřkem.
 
@@ -70,3 +73,5 @@ Ištván uskočil a přitiskl se ke stěně doupěte. Podezřelé zvuky na chv�
 Neohrožený myšák se s úlevou posadil.
 
 „Jak myslíš,“ řekl. „Ovládnu se, protože ti chci vyhovět…“
+
+</section>

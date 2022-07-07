@@ -1,7 +1,10 @@
 ---
-title: "13.\_kapitola"
+title: "13\\.\_kapitola"
 subtitle: "VE KTERÉ SI RÍŠA STĚŽUJE, MÁJA JEDNÁ, ŽELVA UČINÍ PODIVNÝ POHYB A\_HEURÉKA ODCHÁZÍ"
+contentType: prose
 ---
+
+<section>
 
 Mája pobíhala po okraji jámy a znovu a znovu opakovala:
 
@@ -138,3 +141,5 @@ Heuréka udělal tečku a namáhavě a hrdě povstal.
 „Buďte tu šťastni vespolek,“ pronesl záhadně. „Já odcházím…“
 
 A odcházel.
+
+</section>

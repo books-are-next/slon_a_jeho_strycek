@@ -1,7 +1,10 @@
 ---
-title: "29.\_kapitola"
+title: "29\\.\_kapitola"
 subtitle: "JE ÚPLNĚ POSLEDNÍ, A\_PŘECE KONČÍ BEZ ROZLOUČENÍ"
+contentType: prose
 ---
+
+<section>
 
 Ríša s Májou zmizeli za keřem. Mlčky se dohodli, že je načase jít domů. Po několika krocích se však oba zastavili.
 
@@ -114,3 +117,5 @@ Až před vysokou palmou si vzpomněl na strýčka Heuréku a podíval se na v�
 To mi můžete jako velbloudovi věřit!
 
 KONEC
+
+</section>

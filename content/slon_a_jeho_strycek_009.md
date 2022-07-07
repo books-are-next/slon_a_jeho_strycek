@@ -1,7 +1,10 @@
 ---
-title: "5.\_kapitola"
+title: "5\\.\_kapitola"
 subtitle: "VYPRÁVÍ O\_MĚSÍCI, KTERÝ PŘINÁŠÍ SNY, A\_O\_SNU,V\_NĚMŽ JE SLŮNĚ PASOVÁNO NA RYTÍŘE ŽELEZNÉHO RICHARDA"
+contentType: prose
 ---
+
+<section>
 
 Po svém dobrodružství s chřestýšem-punčochou nemohl Ríša dlouho usnout. Převaloval se na palmových listech a díval se do nebe. Nad palmou, zavěšený jako lampión, zářil kulatý měsíc.
 
@@ -86,3 +89,5 @@ Měsíc svítil a Ríšovi bylo najednou tak lehce u srdce, že se mu zdálo, 
 Vznášel se lehounce jako vlečka hnaná větrem a stejně lehounce i padal a padal… do palmových listů jako do peřin.
 
 Kulatý měsíc, který přináší sny, se pomalu rozplýval v ranním světle. A bylo ráno, byl den, kterému se ještě včera říkalo zítra…
+
+</section>

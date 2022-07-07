@@ -1,7 +1,10 @@
 ---
-title: "2.\_kapitola"
+title: "2\\.\_kapitola"
 subtitle: NÁM POVÍ, KTERÝ TVOR NEMÁ ANI ŠPETKU SMYSLU PRO LEGRACI
+contentType: prose
 ---
+
+<section>
 
 Za pár dní si slůně stačilo prohlédnout všechno, co bylo k vidění kolem vysoké palmy, a začalo sbírat odvahu k nějaké delší výpravě. Odvaha k tomu byla zapotřebí hned ze dvou důvodů. Jednak si Ríša nedovedl představit, co ho na takovém výletě může potkat. A zadruhé si nedovedl představit, jak to navlékne, aby ho maminka pustila.
 
@@ -116,3 +119,5 @@ Všichni viděli, jak se slonice napřáhla k záhlavci, který měl udělat te
 Ale už neslyšeli, jak Ríša s úlevou a potichoučku špitá:
 
 „Už se moc těším! Domů…“
+
+</section>

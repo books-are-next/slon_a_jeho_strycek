@@ -1,7 +1,10 @@
 ---
-title: "16.\_kapitola"
+title: "16\\.\_kapitola"
 subtitle: "JE PLNÁ PIKLŮ A\_ZAČÍNÁ VĚTOU:"
+contentType: prose
 ---
+
+<section>
 
 Tenké nožky tlusté Maršálské mouchy se třásly. Ale nebylo to zimou, i když v Kapradinovém lese jsou noci chladnější a temnější než kdekoliv jinde na ostrově, ovšem s výjimkou Pavoučího močálu.
 
@@ -104,3 +107,5 @@ Krtek se najednou styděl přiznat, že neví, co to tajná chodba je. Tak tedy 
 Obrátil se ke Škardě zády, dvakrát hrábl a zmizel v hlíně.
 
 A nad krtinou se vyklenula nudná noc, na nebi jiskřily nudné hvězdy, nudný měsíc nudně zářil a někde v nudné dálce zazpíval ze sna nudně pták…
+
+</section>

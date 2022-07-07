@@ -1,7 +1,10 @@
 ---
-title: "14.\_kapitola"
+title: "14\\.\_kapitola"
 subtitle: "NÁM POVÍ, KDO BYL ROZMRZELÝ, KDO ZARMOUCENÝ, KDO ROZTRPČENÝ A\_KDO SE PYŠNĚ USMÍVAL"
+contentType: prose
 ---
+
+<section>
 
 Strýček Heuréka jako vždy hodně přeháněl, když si tak zaníceně stěžoval na špatný den. Rozhodně by se na ostrově našli nejméně tři jedinci, kterým tento den poskytl víc důvodů k rozmrzelosti nebo k zármutku nebo dokonce k zuřivosti.
 
@@ -166,3 +169,5 @@ Mrštným pohybem si vysadil svou kořist na záda a vyrazil ke dveřím.
 „Vždyť říkám – málem…“ usmálo se pyšně slůně.
 
 A usmívalo se tak celou cestu. Od Punčochového zálivu až na Kukuřičný vrch, kde teprve dovolilo myšákovi sesednout.
+
+</section>

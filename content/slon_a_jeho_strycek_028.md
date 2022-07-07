@@ -1,7 +1,10 @@
 ---
-title: "24.\_kapitola"
+title: "24\\.\_kapitola"
 subtitle: "SE ODEHRÁVÁ V\_PAVOUČÍM MOČÁLU A\_MÁJA V\_NÍ ANI SLŮVKO NEPROMLUVÍ; TAK JE JÍ ÚZKO"
+contentType: prose
 ---
+
+<section>
 
 V Pavoučím močálu se sotva dala rozeznat noc ode dne. Máje bylo úzko. Neviděla ani cípek modré oblohy, neslyšela jediné tíknutí nějakého zbloudilého ptáčka, nezaskřehotala tu žába, ba ani komár tu nezabzikal. Jen černá voda všude kolem čas od času zapukala jako kynoucí těsto.
 
@@ -31,7 +34,7 @@ Kočka se protáhla a lenivě šla ke stolu. Zapálila blikající svíčku a 
 
 Potom se znovu vrátila ke stolu. Seděla před kusem papíru a něco čmárala. Za každým písmenem se zastavila a přemýšlela. A tak trvalo dost dlouho, než na odrbaném papíru stálo:
 
-![](./resources/obr1.jpg)
+![](../Images/obr1.jpg)
 
 „A teď si budeme hrát,“ ušklíbla se.
 
@@ -43,7 +46,7 @@ Myška se přikrčila k noze stolu. Kočka se nahrbila a prolétla vzduchem. D
 
 Vrátila se ke stolu a těžkým drápem dokreslila pod vzkaz takovouhle šipku.
 
-![](./resources/obr2.jpg)
+![](../Images/obr2.jpg)
 
 Zálibně si celou ceduli prohlédla, popadla ji, a aniž by na ustrašenou myšku pohlédla, vyšla z chatrče.
 
@@ -54,3 +57,5 @@ Když se opět vracela, plouhala za sebou otep větví. Rozložila ji přesně v
 Škarda ještě několikrát odběhla a vrátila se s dalším nákladem. Teprve když větve vytvořily na močálu souvislou stezku, ušklíbla se a spokojeně se ubírala do své chatrče.
 
 Po jejím odchodu zase zavládlo nad bažinou ticho. Jen tu a tam to z hloubky zabublalo, nebo docela tichounce zašelestil ze sna Krch. Zřejmě se mu něco ošklivého zdálo…
+
+</section>

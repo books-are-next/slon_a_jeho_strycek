@@ -1,7 +1,10 @@
 ---
-title: "3.\_kapitola"
+title: "3\\.\_kapitola"
 subtitle: "BY SE NEMĚLA ČÍST PŘED SPANÍM, NEBOŤ V\_NÍ POPRVÉ PADNE JMÉNO ŠKARDA"
+contentType: prose
 ---
+
+<section>
 
 Kdyby byl Ríša nedostal po návratu ze svého nepodařeného výletu jednak slíbený záhlavec, ale hlavně tři dny domácího vězení, rozhodně bych tuhle kapitolu nepsal. Raději bych ji vynechal a vyprávěl bych vám o tom, kam se slůně vypravilo a co přitom zažilo. Na Škardu bych si ani nevzpomněl.
 
@@ -40,3 +43,5 @@ Teď se však Škarda stala pro obyvatele Kukuřičného vrchu úplným postrach
 Myšky se už pomalu bály vystrčit čumáček ze svých skrytých doupat, a pokud si nějaký myší odvážlivec občas přiběhl postěžovat do údolí, každý jej vyslechl, pokýval hlavou a brzy na celou věc zapomněl.
 
 Tak už to na světě chodí. Když je někdo malý, nikdo z těch velkých ho nebere vážně. A když je někdo malý a má ještě k tomu starosti, tak bývají velcí přesvědčeni, že i ty starosti jsou malé…
+
+</section>

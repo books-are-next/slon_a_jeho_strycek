@@ -1,7 +1,10 @@
 ---
-title: "20.\_kapitola"
+title: "20\\.\_kapitola"
 subtitle: "NÁM PŘEDSTAVÍ RÍŠU V\_KAKTUSOVÉM BRNĚNÍ A\_UKÁŽE, CO SE MŮŽE STÁT, KDYŽ SI CHCE NĚKDO UTRHNOUT VLČÍ MÁK"
+contentType: prose
 ---
+
+<section>
 
 Kukuřičný kvapík je národní myší tanec, který zavedl na Kukuřičném vrchu už praotec Myš. Na první pohled spočívá jen v rejdění, vzájemném proplétání, kličkování a pobíhání sem a tam, jak se komu zamane. Ve skutečnosti je to však tanec s přísnými a složitými pravidly, kterými vás nebudu zatěžovat. Stačí, když si zapamatujete, že páry při kvapíku kvapně sbírají a chroupají kukuřičná zrnka, a proto se doporučuje přijít na myší rej hladový a s prázdným žaludkem.
 
@@ -56,3 +59,5 @@ Při jednom prudkém náletu dokonce uvízla v pavučinovém závojíčku. Zač
 A právě tahle jediná vteřinka stačila Ištvánovi k tomu, aby vklouzl do chodbičky nějakého opuštěného myšího doupěte…
 
 Vousky mu zplihly, bílá náprsenka se zašpinila, myší hrdina se třásl strachy, ale byl zachráněn.
+
+</section>

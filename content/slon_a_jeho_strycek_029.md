@@ -1,7 +1,10 @@
 ---
-title: "25.\_kapitola"
+title: "25\\.\_kapitola"
 subtitle: "VE KTERÉ JE RÍŠA PASOVÁN NA LSTIVÉHO RICHARDA A\_ŠKARDA VOLÁ, ŽE ŠE VŽDÁVÁ, A\_KRCH VŠECHNO ROZHODNE"
+contentType: prose
 ---
+
+<section>
 
 O necelou hodinu později pavouk procitl. Toužebně se podíval ze země nahoru na keř, kde ochable visel zbyteček pavučiny. Ale na to, že by se tam bez cizí pomoci vysoukal, bylo zbytečné pomýšlet.
 
@@ -33,9 +36,9 @@ Konečně Ríša pavouka spatřil a opatrně ho vyzvedl do vetchého cárku pav
 
 Ríša zatřásl keřem. Doufal, že pavouka probudí a dozví se něco víc. Krch se v pavučince neudržel, ale ani pád do trní ho neprobudil. Nezbylo než sebrat tu spící slupičku a znovu ji uložit. A tu Ríšův zrak padl na ceduli, přichycenou v křoví:
 
-![](./resources/obr11.jpg)
+![](../Images/obr11.jpg)
 
-![](./resources/obr2.jpg)
+![](../Images/obr2.jpg)
 
 Šipka ukazovala za keř k místu, kudy se táhla přes močál stezka z položených větví.
 
@@ -180,3 +183,5 @@ A bylo to. Mája se nezmohla ani na slovo, Škarda vděčně zaslzela a Ríša
 „Auvajs!“ zvolala Mája, protože ji Ríša málem zasedl.
 
 „Gloglogloglo…“ zabublal močál – a bylo už opravdu po všem.
+
+</section>

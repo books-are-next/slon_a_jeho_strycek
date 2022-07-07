@@ -1,7 +1,10 @@
 ---
-title: "7.\_kapitola"
+title: "7\\.\_kapitola"
 subtitle: "VÁS POUČÍ O\_TOM, JAK SE LÁKAJÍ VČELY NA MEDVĚDA"
+contentType: prose
 ---
+
+<section>
 
 Strýček Heuréka sice s oblibou tvrdil, že veškerá moudrost sídlí v jeho hrbech, ale nebyla to pravda. Spíše než moudrost se mu tam usídlila bolest. Každý krok byl pro něho utrpením a žádné léčení nepomáhalo.
 
@@ -114,3 +117,5 @@ Neboť spatřil, že mu v prohlubni mezi dvěma hrby vypučel třetí hrb jako 
 Byl uražen. Byl uražen a dotčen a celou cestu domů ani nepromluvil. Jenom si pro sebe brumlal a vzdychal a naříkal. Ale jinak snášel svou bolest hrdinně.
 
 Tak hrdinně, že Ríša i Mája byli na něho celou cestu domů hrdí.
+
+</section>

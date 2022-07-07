@@ -1,7 +1,10 @@
 ---
-title: "18.\_kapitola"
+title: "18\\.\_kapitola"
 subtitle: VE KTERÉ SE RÍŠOVI DOPORUČUJE, ABY ŠEL NA MAŠKARNÍ REJ ZA VELBLOUDA
+contentType: prose
 ---
+
+<section>
 
 Tlustá Berta žádné osobní zkušenosti s kočkami neměla a Škardu snad ani nezahlédla. Zastávala názor, že jeden je takový a druhý makový a nikdy se do sporů ostatních zvířat nemíchala. A proto soudila, že by se i její potomek měl už pomalu věnovat nějaké vážnější činnosti, než jsou honičky s loupeživou kočkou a myší reje na Kukuřičném vrchu.
 
@@ -72,3 +75,5 @@ Velbloud poslední slova zaslechl, a protože se už nadobro udobřil, obrátil
 „Když on na to Ríša nemá postavu,“ posteskla si slonice.
 
 „Škoda,“ uznal velbloud. „Kdyby šel za velblouda, mohl být králem reje. To mi můžete jako velbloudovi věřit…“
+
+</section>

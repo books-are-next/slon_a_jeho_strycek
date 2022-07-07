@@ -1,7 +1,10 @@
 ---
-title: "23.\_kapitola"
+title: "23\\.\_kapitola"
 subtitle: VYPRÁVÍ O TOM, JAK MYŠÁK IŠTVÁN DOBYL SRDCE NEVRAŽIVÉ ŽELVY
+contentType: prose
 ---
+
+<section>
 
 Trvalo dlouho, hodně dlouho, než se myšák Ištván odvážil vystrčit vousky z doupěte, které mu poskytlo záchranu před Škardou, a než doběhl na planinu, aby všechno kolem varoval.
 
@@ -76,3 +79,5 @@ Pomalu se otočila a vlhkým okem pohlédla na stůl.
 „Nikoli, ogare!“ prohlásila želva rozhodně. „Hodlám totiž spěchati!“
 
 A počala se bez meškání šoulat ke dveřím svého skrovného příbytku…
+
+</section>
