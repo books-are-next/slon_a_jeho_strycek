@@ -17,7 +17,7 @@ jobs:
 
       - uses: actions/setup-node@v2
         with:
-          node-version: "16"
+          node-version: "17"
 
       - name: Check if there is an EPUB waiting for conversion
         id: epub-exists
@@ -107,7 +107,7 @@ jobs:
       - uses: actions/setup-node@v2
         if: ${{ steps.book-info-set.outputs.value != 'null' }}
         with:
-          node-version: "16"
+          node-version: "17"
 
       - name: Install dependencies
         if: ${{ steps.book-info-set.outputs.value != 'null' }}
