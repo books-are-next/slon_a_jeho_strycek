@@ -1,102 +1,82 @@
 {
-  "author": "Pavel Šrut",
-  "identifier": "srut-slon-a-jeho-strycek-cc5e008",
-  "isbn": "978-80-274-1474-1; 978-80-274-1473-4; 978-80-274-1475-8",
-  "languagecode": "cs",
-  "modified": "2021-07-29T09:06:36.929Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Slon a jeho strýček",
-  "revision": "cc5e008",
+  "author": "Pavel Šrut",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "srut-slon-a-jeho-strycek-d3775cd",
+  "revision": "d3775cd",
+  "readingOrder": [
+    "promo.html",
+    "slon_a_jeho_strycek_001.html",
+    "slon_a_jeho_strycek_005.html",
+    "slon_a_jeho_strycek_006.html",
+    "slon_a_jeho_strycek_007.html",
+    "slon_a_jeho_strycek_008.html",
+    "slon_a_jeho_strycek_009.html",
+    "slon_a_jeho_strycek_010.html",
+    "slon_a_jeho_strycek_011.html",
+    "slon_a_jeho_strycek_012.html",
+    "slon_a_jeho_strycek_013.html",
+    "slon_a_jeho_strycek_014.html",
+    "slon_a_jeho_strycek_015.html",
+    "slon_a_jeho_strycek_016.html",
+    "slon_a_jeho_strycek_017.html",
+    "slon_a_jeho_strycek_018.html",
+    "slon_a_jeho_strycek_019.html",
+    "slon_a_jeho_strycek_020.html",
+    "slon_a_jeho_strycek_021.html",
+    "slon_a_jeho_strycek_022.html",
+    "slon_a_jeho_strycek_023.html",
+    "slon_a_jeho_strycek_024.html",
+    "slon_a_jeho_strycek_025.html",
+    "slon_a_jeho_strycek_026.html",
+    "slon_a_jeho_strycek_027.html",
+    "slon_a_jeho_strycek_028.html",
+    "slon_a_jeho_strycek_029.html",
+    "slon_a_jeho_strycek_030.html",
+    "slon_a_jeho_strycek_031.html",
+    "slon_a_jeho_strycek_032.html",
+    "slon_a_jeho_strycek_033.html",
+    "about.html"
+  ],
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:06:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638378384263
+    "date": "Fri Oct 21 2022 11:43:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352591970
   },
   "documents": [
     {
-      "title": "",
-      "file": "colophon.html",
-      "words": 144,
-      "chars": 925,
-      "ideas": 20,
-      "role": "colophon",
-      "order": null,
-      "next": "slon_a_jeho_strycek_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "title: ''\nsubtitle: ''",
-              "id": "subtitle-",
-              "children": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "slon_a_jeho_strycek_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "slon_a_jeho_strycek_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "slon_a_jeho_strycek_001.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "slon_a_jeho_strycek_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
+      "next": "slon_a_jeho_strycek_001.html",
+      "toc": []
     },
     {
-      "title": "",
-      "file": "slon_a_jeho_strycek_003.html",
-      "words": 6,
-      "chars": 29,
-      "ideas": 2,
+      "title": "Slon a jeho strýček",
+      "file": "slon_a_jeho_strycek_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "slon_a_jeho_strycek_001.html",
+      "prev": "promo.html",
       "next": "slon_a_jeho_strycek_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
@@ -109,14 +89,14 @@
       "ideas": 39,
       "role": "chapter",
       "order": 2,
-      "prev": "slon_a_jeho_strycek_003.html",
+      "prev": "slon_a_jeho_strycek_001.html",
       "next": "slon_a_jeho_strycek_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "1. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -136,7 +116,7 @@
           "index": 0,
           "level": 1,
           "name": "2. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -156,7 +136,7 @@
           "index": 0,
           "level": 1,
           "name": "3. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -176,7 +156,7 @@
           "index": 0,
           "level": 1,
           "name": "4. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -196,7 +176,7 @@
           "index": 0,
           "level": 1,
           "name": "5. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -216,7 +196,7 @@
           "index": 0,
           "level": 1,
           "name": "6. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -236,7 +216,7 @@
           "index": 0,
           "level": 1,
           "name": "7. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -256,7 +236,7 @@
           "index": 0,
           "level": 1,
           "name": "8. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -276,7 +256,7 @@
           "index": 0,
           "level": 1,
           "name": "9. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -296,7 +276,7 @@
           "index": 0,
           "level": 1,
           "name": "10. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -316,7 +296,7 @@
           "index": 0,
           "level": 1,
           "name": "11. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -336,7 +316,7 @@
           "index": 0,
           "level": 1,
           "name": "12. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -356,7 +336,7 @@
           "index": 0,
           "level": 1,
           "name": "13. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -376,7 +356,7 @@
           "index": 0,
           "level": 1,
           "name": "14. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -396,7 +376,7 @@
           "index": 0,
           "level": 1,
           "name": "15. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -416,7 +396,7 @@
           "index": 0,
           "level": 1,
           "name": "16. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -436,7 +416,7 @@
           "index": 0,
           "level": 1,
           "name": "17. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -456,7 +436,7 @@
           "index": 0,
           "level": 1,
           "name": "18. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -476,7 +456,7 @@
           "index": 0,
           "level": 1,
           "name": "19. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -496,7 +476,7 @@
           "index": 0,
           "level": 1,
           "name": "20. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -516,7 +496,7 @@
           "index": 0,
           "level": 1,
           "name": "21. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -536,7 +516,7 @@
           "index": 0,
           "level": 1,
           "name": "22. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -556,7 +536,7 @@
           "index": 0,
           "level": 1,
           "name": "23. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -576,7 +556,7 @@
           "index": 0,
           "level": 1,
           "name": "24. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -596,7 +576,7 @@
           "index": 0,
           "level": 1,
           "name": "25. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -616,7 +596,7 @@
           "index": 0,
           "level": 1,
           "name": "26. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -636,7 +616,7 @@
           "index": 0,
           "level": 1,
           "name": "27. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -656,7 +636,7 @@
           "index": 0,
           "level": 1,
           "name": "28. kapitola",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
@@ -670,13 +650,33 @@
       "role": "chapter",
       "order": 30,
       "prev": "slon_a_jeho_strycek_032.html",
-      "next": null,
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "29. kapitola",
-          "id": "chunk1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 139,
+      "chars": 930,
+      "ideas": 13,
+      "role": "about",
+      "order": null,
+      "prev": "slon_a_jeho_strycek_033.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
           "children": []
         }
       ]
@@ -684,14 +684,14 @@
   ],
   "totals": {
     "all": {
-      "words": 23690,
-      "chars": 141743,
-      "ideas": 1375
+      "words": 23688,
+      "chars": 141759,
+      "ideas": 1371
     },
     "chapters": {
-      "words": 23546,
-      "chars": 140818,
-      "ideas": 1355
+      "words": 23541,
+      "chars": 140789,
+      "ideas": 1354
     }
   }
 }
